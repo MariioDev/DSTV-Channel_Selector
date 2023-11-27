@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SoapyTheToast/DSTV-Channel_Selector/blob/main/logo.png#gh-light-mode-only" alt="logo" width="200">
-  <img src="https://github.com/SoapyTheToast/DSTV-Channel_Selector/blob/main/Untitled%20design%20(9).png#gh-dark-mode-only"logo" width="200">
+  <img src="https://github.com/SoapyTheToast/DSTV-Channel_Selector/blob/main/images/icon.png" alt="logo" width="200">
   <h1 align="center">DSTV Channel Selector</h1>
 </p>
 
